@@ -1,0 +1,59 @@
+  @import url('https://fonts.googleapis.com/css2?family=Martel+Sans&family=Roboto&display=swap');
+
+  body{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(3, 3, 3);
+  }
+  
+.inicio{
+  color: #fff;
+  background-image: url(./img/Iniciofundo.gif);
+  background-repeat: no-repeat;
+  height: 100%;
+  width: auto;   
+  display: flex;
+  align-items: center;
+}
+.botao{
+ 
+  display: flex;
+  align-items: center;
+  background-color:  rgb(77, 144, 231);
+  color: #fff;
+  text-decoration: none;
+  padding: 3%;
+  border-radius: 8px; 
+   width: fit-content;
+}
+
+.apresentacao{
+  padding: 10%;
+}
+.stack{
+  color: rgb(77, 144, 231);
+}
+
+.fotinha{
+  width: 30%;
+}
+
+/*Tecnologias.tsx*/
+.Tecnologias{
+  text-align: center;
+}
+
+.linguagems img{
+  margin: 5%;
+}
+
+.linguagems{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+ 
+}
+
+.Contato{
+  text-align: center;
+}
