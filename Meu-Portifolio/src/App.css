@@ -57,3 +57,24 @@
 .Contato{
   text-align: center;
 }
+
+.alinhar{
+  text-align: initial;
+  margin-left: 10%;
+}
+
+.meios{
+  display: inline-flex;
+  margin: 15px;
+}
+
+.contatoimg{
+  width: 5%;
+  margin-right: 10px;
+}
+
+.contatoimgzap{
+  width: 3%;
+  height: fit-content;
+  margin-right: 17px;
+}
