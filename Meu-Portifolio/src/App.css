@@ -35,7 +35,7 @@
 }
 
 .fotinha{
-  width: 30%;
+  width: 44%;
 }
 
 /*Tecnologias.tsx*/
@@ -66,11 +66,12 @@
 .meios{
   display: inline-flex;
   margin: 15px;
+  align-items: center;
 }
 
 .contatoimg{
-  width: 5%;
-  margin-right: 10px;
+  width: 6%;
+  margin-right: 10px;  
 }
 
 .contatoimgzap{
