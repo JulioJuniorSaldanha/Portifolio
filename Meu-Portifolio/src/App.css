@@ -35,7 +35,7 @@
 }
 
 .fotinha{
-  width: 30%;
+  width: 44%;
 }
 
 /*Tecnologias.tsx*/
@@ -56,4 +56,26 @@
 
 .Contato{
   text-align: center;
+}
+
+.alinhar{
+  text-align: initial;
+  margin-left: 10%;
+}
+
+.meios{
+  display: inline-flex;
+  margin: 15px;
+  align-items: center;
+}
+
+.contatoimg{
+  width: 6%;
+  margin-right: 10px;  
+}
+
+.contatoimgzap{
+  width: 3%;
+  height: fit-content;
+  margin-right: 17px;
 }
